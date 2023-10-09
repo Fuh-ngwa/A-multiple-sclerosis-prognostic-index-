@@ -4,15 +4,15 @@ This paper is available at https://doi.org/10.1093/braincomms/fcab288
 
 # Part I: Analysis of worsening of disability (WoD)
 
-1-Compute the CEPI, GPI, and CEGPI using the R-script "1-Analysis of EDSS_Develope the prognostic index.R"
+1-Compute the CEPI, GPI, and CEGPI using the R-script "1-Analysis of WoD_Develope the prognostic index.R"
 
-2-Perform dynamic landmark prediction on the prognostic indices using the R-script "2-Analysis of EDSS_Dynamic landmark prediciton using the prognostic index.R"
+2-Perform dynamic landmark prediction on the prognostic indices using the R-script "2-Analysis of WoD_Dynamic landmark predicitons.R"
 
 # Part II: Analysis of recurrent relapsing events (RRE)
 
-3-Compute the CEPI, GPI, and CEGPI using the R-script "1-Analysis of EDSS_Develope the prognostic index.R "
+3-Compute the CEPI, GPI, and CEGPI using the R-script "1-Analysis of RRE_develope the prognostic index.R"
 
-2-Perform dynamic landmark prediction on the prognostic indices using the R-script "2-Analysis of EDSS_Dynamic landmark prediciton using the prognostic index.R"
+4-Perform dynamic landmark prediction on the prognostic indices using the R-script "2-Analysis of RRE_Dynamic landmark predicitons.R"
 
 ## Part III: Analysis of relapses and/or worsening of disability (RWoD)
 
