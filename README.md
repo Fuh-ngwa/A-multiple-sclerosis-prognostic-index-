@@ -1,2 +1,3 @@
 # A-multiple-sclerosis-prognostic-index-
-Developing a clinico-genotypic prognostic index for predicting risk of multiple sclerosis disability progression and risk of relapses
+Here I have published my R-codes for the analysis in the paper: "Developing a clinical–environmental–genotypic prognostic index for relapsing-onset multiple sclerosis and clinically isolated syndrome"
+This paper is available at https://doi.org/10.1093/braincomms/fcab288
